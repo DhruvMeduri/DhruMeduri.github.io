@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - DhruvMeduri
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - dhruvmeduri/CS6966-Project
+  - dataviscourse2023/final-project-navigateslc
+  - dhruvmeduri/Merge_Tree_Comparison
+  - Lord-of-the-Galaxy/GAV-Project
+
